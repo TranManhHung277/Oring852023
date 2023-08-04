@@ -1,0 +1,11 @@
+c:\users\semv\documents\visual studio 2015\Projects\Oring\Oring\bin\Debug\Oring.exe.config
+C:\Users\semv\documents\visual studio 2015\Projects\Oring\Oring\obj\Debug\Oring.csprojResolveAssemblyReference.cache
+C:\Users\semv\documents\visual studio 2015\Projects\Oring\Oring\obj\Debug\Oring.Main_Form.resources
+C:\Users\semv\documents\visual studio 2015\Projects\Oring\Oring\obj\Debug\Oring.Properties.Resources.resources
+C:\Users\semv\documents\visual studio 2015\Projects\Oring\Oring\obj\Debug\Oring.csproj.GenerateResource.Cache
+C:\Users\semv\documents\visual studio 2015\Projects\Oring\Oring\bin\Debug\Oring.exe
+C:\Users\semv\documents\visual studio 2015\Projects\Oring\Oring\bin\Debug\Oring.pdb
+C:\Users\semv\documents\visual studio 2015\Projects\Oring\Oring\obj\Debug\Oring.exe
+C:\Users\semv\documents\visual studio 2015\Projects\Oring\Oring\obj\Debug\Oring.pdb
+C:\Users\semv\Documents\Visual Studio 2015\Projects\Oring\Oring\bin\Debug\EasyModbus.dll
+C:\Users\semv\Documents\Visual Studio 2015\Projects\Oring\Oring\bin\Debug\EasyModbus.xml
